@@ -1,6 +1,6 @@
 **Challenge Title** - Caesar 
 
-**Points** - 50
+**Points** - 25
 
 **Description** - None
 
