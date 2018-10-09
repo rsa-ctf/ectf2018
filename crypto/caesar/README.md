@@ -1,7 +1,7 @@
-**Challenge Title** - Caesar 
+**Challenge Title** - Simple Substitute
 
-**Points** - 25
+**Points** - 50
 
 **Description** - None
 
-**Hints** - Flag format - ECTF{*type_flag_here*}
+**Hints** - While deciphering, do not include {,_ characters
