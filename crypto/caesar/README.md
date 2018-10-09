@@ -1,7 +1,7 @@
 **Challenge Title** - Caesar 
 
-**Points** - 50
+**Points** - 25
 
 **Description** - None
 
-**Hints** - Flag format - eCTF{*type_flag_here*}
+**Hints** - Flag format - ECTF{*type_flag_here*}
