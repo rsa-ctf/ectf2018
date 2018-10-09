@@ -4,7 +4,7 @@
  ReallySimpleAdleman
 
  ## Points
- 100
+ 50
 
  ## Description
 We have a public key from the admin. Can you obtain the private key from it and decrypt the ciphertext?
