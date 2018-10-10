@@ -4,7 +4,7 @@
 magic
 
 ## Points
-50
+25
 
 ## Description
 We found a png file which might contain a flag, but it seems to have been corrupted.
