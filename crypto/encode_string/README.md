@@ -15,4 +15,4 @@ Someone seemed to have encoded a flag and forgot about it:
 Can you decode it to get the flag?
 
 ## Hint
-https://crypto.stackexchange.com/questions/3617/how-do-ciphers-change-plaintext-into-numeric-digits-for-computings://crypto.stackexchange.com/questions/3617/how-do-ciphers-change-plaintext-into-numeric-digits-for-computing
+https://crypto.stackexchange.com/questions/3617/how-do-ciphers-change-plaintext-into-numeric-digits-for-computing
