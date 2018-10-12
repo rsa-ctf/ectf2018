@@ -14,3 +14,5 @@ Can you find it? This challenge is pretty grepping!
 # Hints
 None
 
+## Flag
+ECTF{gr3P_AND_awK_i5_7h3_WaY_t0_g0
