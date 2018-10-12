@@ -1,0 +1,12 @@
+# Hello brave one!
+
+You need to do two things
+
+1. What is the common name of the color represented by the hex value #ff0000?
+2. The ciphertext "khuulqj" was obtainbed by applying a caesar cipher on the plaintext with shift = 3. What is the plaintext?
+
+Congratulations if you've done the above!
+
+Now combine the two answers together and Google what it means!
+
+See ya!
