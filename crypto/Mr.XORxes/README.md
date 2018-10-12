@@ -17,3 +17,6 @@ Retrieve the message to get the flag.
 
 #### To given if no solves:
 - Try bruteforcing a single character key for the first step
+
+### Flag
+ECTF{N0w_tHi5_i5_WH@7_a_PHLa9_L00x_LIK3}
