@@ -1,0 +1,3 @@
+User-Agent: noob
+Allow: /entryonlyforthebrave
+Disallow: /stupidrottenlink
