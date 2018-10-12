@@ -13,6 +13,8 @@ Gain admin access to the server and obtain the flag.
 
 `nc ip:40010`
 
+Include : message.txt, publickjeys.json 
+
 # Resources
 
 RSA PKCS#1 v1.5 Signing: https://www.dlitz.net/software/pycrypto/api/2.6/Crypto.Signature.PKCS1_v1_5-module.html 
