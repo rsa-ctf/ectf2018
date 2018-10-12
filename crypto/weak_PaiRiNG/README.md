@@ -1,11 +1,11 @@
-# Weak PaRiNG
+# Weak PaiRiNG
 
 # Points
 150
 
 # Description
 Super Secure Inc. has published the public keys of all its admins, because well, they're supposed to be public.
-To gain admin access to the server you'll need the private key of one of the admins, and you sure as hell can't get that because they've used 512 bit super secure primes to generate their public keys. Good luck trying to factorize that.
+To gain admin access to the server you'll need the private key of one of the admins, and they think you can't get that because they've used 512 bit super secure primes to generate their public keys.
 
 On a philosophical note, is anything in the world truly random?
 
