@@ -16,3 +16,7 @@ Can you decode it to get the flag?
 
 ## Hint
 https://crypto.stackexchange.com/questions/3617/how-do-ciphers-change-plaintext-into-numeric-digits-for-computing
+
+# Flag
+
+ECTF{3NcOD1NG_15_NO7_3NcrYP71Ng}
