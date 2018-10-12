@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ECTF{Y0u_h3ld_7h3_h4nging_R0p_pr0p3rLy_0x487y5rhd}
+=======
+ECTF{Y0u_h3ld_7h3_h4nging_R0p3_pr0p3rLy_0x487y5rhd}
+>>>>>>> 9d147b6875e430acce3ca1c3ac35f35441aeed93
