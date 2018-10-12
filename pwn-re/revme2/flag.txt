@@ -1,1 +1,0 @@
-char flag[] = "ECTF{r3v_u$1ng_d1$4$$_1$_34$y_rIgh7_0x2egf98egh}";
