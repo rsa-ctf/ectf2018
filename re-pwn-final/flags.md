@@ -1,11 +1,11 @@
 # Testing!
 
-1. strings - converted dynamically linked to statically linked - more strings! - 20
-2. elf - no issues - 20
-3. comment - no issues - 20
-4. revme0 - no issues - Flag is not in the ECTF{} format. 25
-5. revme1 - no issues - 50
-6. revme2 - no issues - 75
+1. strings - converted dynamically linked to statically linked - more strings! - 20 - done!
+2. elf - no issues - 20 - done!
+3. comment - no issues - 20 - done!
+4. revme0 - no issues - Flag is not in the ECTF{} format. 25 - done!
+5. revme1 - no issues - 50 - done!
+6. revme2 - no issues - 75 - done!
 7. pwnme0 - no issues - 20
 8. pwnme1 - no issues - 25
 9. pwnme2 - no issues - 50
