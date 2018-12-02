@@ -19,7 +19,7 @@ int main(int argc, char **argv) {
 
 void func() {
 
-    printf("\nYou are reading the system.log file!\n");
-    system("cat system.log");
+    printf("\nYou are reading the /tmp/system.log file!\n");
+    system("cat /tmp/system.log");
     return;
 }
