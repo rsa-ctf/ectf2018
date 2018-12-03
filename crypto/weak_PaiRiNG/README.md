@@ -24,5 +24,3 @@ Did you read the problem title clearly?
 
 Someone said they might have had a weak pseudo random number generator
 
-# Flag
-ECTF{gcd_15_50_E45y_70_C4LCUl47e}

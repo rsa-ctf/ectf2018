@@ -13,5 +13,3 @@ Can you work your magic and recover the flag?
 ## Hint
 A hex editor would come to use.
 
-## Flag
-ECTF{magic_numbers_are_cool}
